@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Google Home API Sample App</string>
+    <string name="app_name">ABC-MEAL</string>
 
     <string name="new_automation_name">Google Home API Sample App</string>
     <string name="new_automation_description">Google Home API Sample App</string>
@@ -10,6 +10,8 @@
     <string name="welcome_text_4">Google Home APIs</string>
     <string name="welcome_text_5">Sample Application</string>
     <string name="welcome_button_signin">Sign In</string>
+
+    <string name="default_web_client_id">YOUR_GOOGLE_CLIENT_ID_HERE</string>
 
     <string name="tab_button_devices">Devices</string>
     <string name="tab_button_automations">Automations</string>

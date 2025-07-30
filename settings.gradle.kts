@@ -20,6 +20,7 @@ dependencyResolutionManagement {
         // Remote repositories:
         google()
         mavenCentral()
+        maven { url = uri("https://jitpack.io") }
     }
 }
 
