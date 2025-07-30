@@ -48,11 +48,11 @@ class MainActivity : AppCompatActivity() {
 
     // Constants
     companion object {
-        const val WEATHER_API_KEY = "2782a547ddb4775eeefe1edfc6361b36"
+        const val WEATHER_API_KEY = "" //API key deactivated
         const val BASE_WEATHER_URL = "https://api.openweathermap.org/data/2.5/"
-        const val SPOONACULAR_API_KEY = "20323a01082945aa8fcb6e57518eb0e6"
+        const val SPOONACULAR_API_KEY = "" //API key deactivated
         const val BASE_SPOONACULAR_URL = "https://api.spoonacular.com/"
-        const val GEMINI_API_KEY = "AIzaSyDosQrqNAG6bLb9tSCB4eneaEOlZIEvmlg"
+        const val GEMINI_API_KEY = "" //API key deactivated
         const val BASE_GEMINI_URL = "https://generativelanguage.googleapis.com/"
         const val SMART_KITCHEN_BASE_URL = "http://192.168.56.1/"
         const val LOCATION_PERMISSION_REQUEST_CODE = 1001
