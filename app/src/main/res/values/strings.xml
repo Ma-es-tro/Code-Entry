@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">ABC-MEAL</string>
+
+    <string name="new_automation_name">Google Home API Sample App</string>
+    <string name="new_automation_description">Google Home API Sample App</string>
+
+    <string name="welcome_text_1">Welcome to</string>
+    <string name="welcome_text_2">Google Home!</string>
+    <string name="welcome_text_3">Sign in to use</string>
+    <string name="welcome_text_4">Google Home APIs</string>
+    <string name="welcome_text_5">Sample Application</string>
+    <string name="welcome_button_signin">Sign In</string>
+
+    <string name="default_web_client_id">YOUR_GOOGLE_CLIENT_ID_HERE</string>
+
+    <string name="tab_button_devices">Devices</string>
+    <string name="tab_button_automations">Automations</string>
+
+    <string name="devices_structure_loading">Loading...</string>
+    <string name="devices_button_add">+ Add Device</string>
+
+    <string name="draft_title">New Automation</string>
+    <string name="draft_label_name">Name</string>
+    <string name="draft_label_description">Description</string>
+    <string name="draft_text_starters">Starters</string>
+    <string name="draft_text_actions">Actions</string>
+    <string name="draft_new_starter_name">+Add Starter</string>
+    <string name="draft_new_starter_description">Click to select a starter for automation</string>
+    <string name="draft_new_action_name">+Add Action</string>
+    <string name="draft_new_action_description">Click to select an action for automation</string>
+    <string name="draft_text_creating">Creating...</string>
+    <string name="draft_button_create">Create Automation</string>
+
+    <string name="candidate_button_create">Create Automation</string>
+    <string name="candidate_title_new">New Automation</string>
+    <string name="candidate_description_new">Create a new automation from scratch</string>
+
+    <string name="starter_title_select">Select Starter</string>
+    <string name="starter_title_device">Device</string>
+    <string name="starter_title_trait">Trait</string>
+    <string name="starter_title_operation">Operation</string>
+    <string name="starter_title_value">Value</string>
+    <string name="starter_text_select">Select</string>
+    <string name="starter_button_create">Save Starter</string>
+    <string name="starter_button_update">Update Starter</string>
+    <string name="starter_button_remove">Remove Starter</string>
+
+    <string name="action_title_select">Select Action</string>
+    <string name="action_title_device">Device</string>
+    <string name="action_title_trait">Trait</string>
+    <string name="action_title_command">Command</string>
+    <string name="action_title_value">Value</string>
+    <string name="action_text_select">Select</string>
+    <string name="action_button_create">Save Action</string>
+    <string name="action_button_update">Update Action</string>
+    <string name="action_button_remove">Remove Action</string>
+
+    <string name="automations_title">My Automations</string>
+    <string name="automations_text_loading">Loading...</string>
+
+    <string name="automation_title_description">Description</string>
+    <string name="automation_title_starters">Starters</string>
+    <string name="automation_title_actions">Actions</string>
+    <string name="automation_title_status">Status</string>
+    <string name="automation_text_unknown">[Unknown Device]</string>
+    <string name="automation_text_is_valid">isValid</string>
+    <string name="automation_text_is_active">isActive</string>
+    <string name="automation_button_execute">Manually Execute</string>
+    <string name="automation_button_delete">Delete Automation</string>
+
+</resources>
